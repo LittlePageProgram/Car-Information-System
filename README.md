@@ -1,7 +1,7 @@
 # IDE
 My first program edit by vc6.0
 
-# language
+# Language
 Chinese
 
 # Function
