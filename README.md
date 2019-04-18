@@ -1,6 +1,9 @@
 # IDE
 My first program edit by vc6.0
 
+# Program language
+Chinese
+
 # Function
 ## Save
 Temporary memory the car information.
